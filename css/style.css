@@ -1,0 +1,12 @@
+body {
+    background-image: url(/img/background.jpg);
+    background-size: cover;
+}
+
+.art {
+    background-color: rgba(53, 53, 53, 0.685);
+    border: 2px solid #111111;
+    border-radius: 5px;
+    padding: 10px;
+    color: #818181;
+}
