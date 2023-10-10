@@ -10,3 +10,7 @@ body {
     padding: 10px;
     color: #818181;
 }
+.colour{
+    background-color: rgba(53, 53, 53, 0.685);
+    outline: 2px solid #111111;
+}
